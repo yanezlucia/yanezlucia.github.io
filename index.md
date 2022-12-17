@@ -7,7 +7,7 @@ My Github page is http://github.com/yanezlucia
 ### CPSC-120
 * Lab 8 
 
-Lab 8, part 3, was one of my favorites labs because it was so cool to see how easily we could make a program that would run these animations. It was also a really great learning expierence where i learned how to sleep the computer in order to make the animations work. As well as learning about the 
+Lab 8, part 3, was one of my favorites labs because it was so cool to see how easily we could make a program that would run these animations. It was also a really great learning expierence where i learned how to sleep the computer in order to make the animations work. As well as learning about the different ways we can make a program fun!
 
 * Lab 10 
 
